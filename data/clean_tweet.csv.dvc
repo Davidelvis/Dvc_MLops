@@ -1,4 +1,4 @@
 outs:
-- md5: 213f7e6e4cfe825ae26e56f38de2861f
-  size: 2140590
+- md5: cfdf0622b834e425b1dda7a6b7c7f519
+  size: 1987400
   path: clean_tweet.csv
